@@ -1,0 +1,3 @@
+rootProject.name='AES Security'
+include ':app'
+include ':aes_library'
